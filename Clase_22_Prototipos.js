@@ -6,8 +6,9 @@ Objetos - Es una instancia de una clase.
   Metodos - Son las acciones que un objeto puede realizar (son funciones dentro de un objeto).
 */
 
+/* Objeto */
 const animal = {
-  /* Objeto */ nombre: "Snoopy" /* Atributo */,
+  nombre: "Snoopy" /* Atributo */,
   sonar() {
     /* Motodo "Funcion" */
     console.log("Hago sonidos por que estoy vivo");

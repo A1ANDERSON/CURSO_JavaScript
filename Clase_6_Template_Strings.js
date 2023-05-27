@@ -17,10 +17,10 @@ console.log(ul);
 
 let ul2 = `
 <ul>
-<li>Primavera</li>
-<li>Verano</li>
-<li>Otono</li>
-<li>Invierno</li>
+  <li>Primavera</li>
+  <li>Verano</li>
+  <li>Otono</li>
+  <li>Invierno</li>
 </ul>
 `;
 console.log(ul2);

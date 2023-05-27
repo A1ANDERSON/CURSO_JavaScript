@@ -11,6 +11,12 @@ function sumar(a, b, ...c) {
   return resultado;
 }
 
+/* 
+arreglo.forEach(function(elemento) {
+  // Código a ejecutar para cada elemento
+});
+*/
+
 console.log(sumar(1, 2));
 console.log(sumar(1, 2, 3));
 console.log(sumar(1, 2, 3, 4));

@@ -47,7 +47,7 @@ jon.decirMiNombre();
 /* listar las propiedades */
 console.log(Object.keys(jon));
 
-/* Nos da los valores */
+/* Nos da los valores, simplemente los valores*/
 console.log(Object.values(jon));
 
 /* Para verificar si existe cierta propiedad en el objeto, devuelve true o false */

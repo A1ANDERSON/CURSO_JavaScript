@@ -1,8 +1,9 @@
 const numeros = [1, 2, 3];
 
 /* Sin destructuracion */
-let uno = numeros[0];
-(dos = numeros[1]), (tres = numeros[2]);
+let uno = numeros[0],
+  dos = numeros[1],
+  tres = numeros[2];
 
 console.log(uno, dos, tres);
 
